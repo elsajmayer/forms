@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-style: italic;
+}
+form {
+  background-color: #D3D3D3;
+  padding: 10px;
+  border-radius: 15px;
+  padding: 20px;
+}
+label {
+  font-weight: bold;
+}
+button [type="submit"]{
+  margin: 0 auto;
+  display:block;
+  position:relative;
+  text-align: center;
+}
